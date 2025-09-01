@@ -1,0 +1,49 @@
+Ray Roman Construction Page Clone
+
+This project is a clone of the Ray Roman Construction landing page, built to practice frontend development and UI/UX skills. The goal was to replicate the design, layout, and responsiveness of the original website using clean, modern web technologies.
+
+🚀 Features
+
+Responsive layout for desktop and mobile
+
+Clean and minimal UI design
+
+Structured with semantic HTML5
+
+Styled using CSS3 (Flexbox/Grid for layout)
+
+Smooth hover effects and transitions
+
+SEO-friendly code structure
+
+🛠️ Tech Stack
+
+HTML5 – for semantic and structured markup
+
+CSS3 – for styling, layouts, and animations
+
+JavaScript (optional) – for interactive elements
+
+📂 Project Structure
+├── index.html       # Main page  
+├── style.css        # Stylesheet  
+├── /assets          # Images, icons, and media files  
+└── README.md        # Project documentation  
+
+🎯 Purpose
+
+This project is purely for educational purposes and showcases my ability to replicate professional landing page designs from scratch.
+
+📸 Preview
+
+👉 Live Demo
+ (Add your deployed link here)
+
+🤝 Contribution
+
+Feel free to fork this repo and improve the design or add new features.
+
+📧 Contact
+
+Created by Prem Kumar Ponnada – If you’d like to connect, reach me on LinkedIn
+.
